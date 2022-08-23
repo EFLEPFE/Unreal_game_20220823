@@ -4567,3 +4567,54 @@ Recommended: 516.25
 [2022.08.23-08.33.01:522][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
 [2022.08.23-08.33.01:590][623]LogPlayLevel: Display: Destroying online subsystem :Context_8
 [2022.08.23-08.33.01:687][625]Cmd: SELECT NONE
+[2022.08.23-08.33.19:260][575]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.23-08.33.19:265][575]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.23-08.33.19:265][575]PIE: New page: PIE session: 哀及地圖 (2022年8月24日 上午12:33:19)
+[2022.08.23-08.33.19:291][575]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_哀及地圖
+[2022.08.23-08.33.19:310][575]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019283s)
+[2022.08.23-08.33.19:310][575]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/哀及地圖.哀及地圖 to /Game/地圖/UEDPIE_0_哀及地圖.哀及地圖 (0.019542s)
+[2022.08.23-08.33.19:310][575]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.23-08.33.19:310][575]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.23-08.33.19:310][575]LogAIModule: Creating AISystem for world 哀及地圖
+[2022.08.23-08.33.19:311][575]LogPlayLevel: PIE: World Init took: (0.001212s)
+[2022.08.23-08.33.19:323][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.08.23-08.33.19:326][575]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.08.23-08.33.19:326][575]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.23-08.33.19:326][575]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.23-08.33.19:326][575]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.23-08.33.19:326][575]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.23-08.33.19:326][575]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.23-08.33.19:326][575]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.23-08.33.19:326][575]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.23-08.33.19:326][575]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.23-08.33.19:326][575]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.23-08.33.19:327][575]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.23-08.33.19:327][575]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.23-08.33.19:329][575]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.23-08.33.19:357][575]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek High Definition Audio)
+[2022.08.23-08.33.19:358][575]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.23-08.33.19:358][575]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.23-08.33.19:358][575]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.23-08.33.19:359][575]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2022.08.23-08.33.19:359][575]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2022.08.23-08.33.19:361][575]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2022.08.23-08.33.19:361][575]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2022.08.23-08.33.19:361][575]LogInit: FAudioDevice initialized.
+[2022.08.23-08.33.19:361][575]LogAudio: Display: Audio Device (ID: 7) registered with world '哀及地圖'.
+[2022.08.23-08.33.19:380][575]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.08.23-08.33.19:384][575]LogWorld: Bringing World /Game/地圖/UEDPIE_0_哀及地圖.哀及地圖 up for play (max tick rate 0) at 2022.08.23-16.33.19
+[2022.08.23-08.33.19:385][575]LogWorld: Bringing up level for play took: 0.004480
+[2022.08.23-08.33.19:387][575]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2022.08.23-08.33.19:392][575]PIE: Server logged in
+[2022.08.23-08.33.19:393][575]PIE: Play in editor total start time 0.128 seconds.
+[2022.08.23-08.33.32:981][238]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.23-08.33.32:981][238]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_哀及地圖
+[2022.08.23-08.33.32:981][238]LogWorld: UWorld::CleanupWorld for 哀及地圖, bSessionEnded=true, bCleanupResources=true
+[2022.08.23-08.33.32:982][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.23-08.33.32:997][238]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.23-08.33.33:000][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.23-08.33.33:011][238]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.23-08.33.33:012][238]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.08.23-08.33.33:014][238]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.08.23-08.33.33:024][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.08.23-08.33.33:094][239]LogPlayLevel: Display: Destroying online subsystem :Context_9
