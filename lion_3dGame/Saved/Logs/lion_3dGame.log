@@ -642,3 +642,92 @@ Recommended: 516.25
 [2022.09.13-02.51.41:267][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
 [2022.09.13-02.51.41:270][  0]SourceControl: Source control is disabled
 [2022.09.13-02.51.41:437][  0]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.09.13-02.53.31:395][  0]LogDerivedDataCache: C:/Users/USER/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.118 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.13-02.53.58:706][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2022.09.13-02.53.58:717][  0]LogUnrealEdMisc: Loading editor; pre map load, took 154.289
+[2022.09.13-02.53.58:717][  0]Cmd: MAP LOAD FILE="../../../../GitHub/Unreal_game_20220823/lion_3dGame/Content/地圖/哀及地圖.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.13-02.53.58:718][  0]LightingResults: New page: Lighting Build
+[2022.09.13-02.53.58:730][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.09.13-02.53.58:730][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.13-02.53.58:730][  0]MapCheck: New page: Map Check
+[2022.09.13-02.53.58:730][  0]LightingResults: New page: Lighting Build
+[2022.09.13-02.53.58:742][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.13-02.53.58:746][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.09.13-02.53.59:510][  0]LogMaterial: Display: Missing cached shadermap for M_tree in PCD3D_SM5, Default, SM5 (DDC key hash: AF4DDDF3E9BDB09F0DF96019D5DA0F849B85D547), compiling. 
+[2022.09.13-02.53.59:866][  0]LogAudio: Display: Audio Device (ID: 1) registered with world '哀及地圖'.
+[2022.09.13-02.53.59:866][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.13-02.53.59:867][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.13-02.53.59:867][  0]LogAIModule: Creating AISystem for world 哀及地圖
+[2022.09.13-02.54.00:636][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.13-02.54.00:660][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.09.13-02.54.00:662][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.13-02.54.00:662][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.263ms to complete.
+[2022.09.13-02.54.00:662][  0]LogFileHelpers: Loading map '哀及地圖' took 1.946
+[2022.09.13-02.54.00:687][  0]LogUnrealEdMisc: Total Editor Startup Time, took 156.259
+[2022.09.13-02.54.00:687][  0]LogShaderCompilers: Display: ================================================
+[2022.09.13-02.54.00:687][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.09.13-02.54.00:687][  0]LogShaderCompilers: Display: Total job queries 43, among them cache hits 0 (0.00%)
+[2022.09.13-02.54.00:687][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.09.13-02.54.00:687][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 6553.60 MB (6.40 GB) budget. Usage: 0.00%
+[2022.09.13-02.54.00:687][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.09.13-02.54.00:687][  0]LogShaderCompilers: Display: Shaders Compiled: 43
+[2022.09.13-02.54.00:687][  0]LogShaderCompilers: Display: Jobs assigned 43, completed 0 (0.00%)
+[2022.09.13-02.54.00:687][  0]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.05 s
+[2022.09.13-02.54.00:687][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.09.13-02.54.00:687][  0]LogShaderCompilers: Display: Jobs were issued in 15 batches (only local compilation was used), average 2.87 jobs/batch
+[2022.09.13-02.54.00:687][  0]LogShaderCompilers: Display: ================================================
+[2022.09.13-02.54.00:811][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.13-02.54.00:825][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.13-02.54.00:840][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.13-02.54.00:851][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.13-02.54.00:922][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.09.13-02.54.00:922][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.13-02.54.00:934][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.09.13-02.54.00:934][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.13-02.54.00:948][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.09.13-02.54.00:948][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.13-02.54.00:963][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.09.13-02.54.00:963][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.13-02.54.00:984][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.09.13-02.54.00:985][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.13-02.54.00:998][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.09.13-02.54.00:998][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.13-02.54.01:007][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.09.13-02.54.01:008][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.13-02.54.01:018][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.09.13-02.54.01:018][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.13-02.54.01:026][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.09.13-02.54.01:026][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.13-02.54.01:034][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.09.13-02.54.01:034][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.13-02.54.01:035][  0]LogFeaturePack: Error: Error in Feature pack D:/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.09.13-02.54.01:784][  0]LogSlate: Took 0.010036 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.09.13-02.54.01:789][  0]LogSlate: Took 0.000347 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.09.13-02.54.01:800][  0]LogSlate: Took 0.010420 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.09.13-02.54.01:803][  0]LogSlate: Took 0.000344 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.09.13-02.54.01:815][  0]LogSlate: Took 0.010831 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.09.13-02.54.01:862][  0]LogViewport: Scene viewport resized to 1526x585, mode Windowed.
+[2022.09.13-02.54.03:673][  0]LogStall: Startup...
+[2022.09.13-02.54.03:676][  0]LogStall: Startup complete.
+[2022.09.13-02.54.03:717][  0]LogLoad: (Engine Initialization) Total time: 159.29 seconds
+[2022.09.13-02.54.03:717][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.09.13-02.54.03:830][  0]LogAssetRegistry: Asset discovery search completed in 150.4848 seconds
+[2022.09.13-02.54.03:841][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.09.13-02.54.03:905][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.09.13-02.54.03:970][  0]LogMaterial: Display: Material /Game/Stylized_Egypt/Materials/plants_materials/M_tree.M_tree needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2022.09.13-02.54.03:985][  0]LogMaterial: Display: Missing cached shadermap for M_tree in PCD3D_SM5, Default, SM5 (DDC key hash: 0DDE6EA73E3941A4ECFFD68EB929197DE815DE73), compiling. 
+[2022.09.13-02.54.04:883][  2]LogSlate: Took 0.007109 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.09.13-03.04.03:869][826]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.09.13-03.04.03:871][826]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/地圖/哀及地圖' took 0.014
+[2022.09.13-03.04.03:871][826]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Stylized_Egypt/Materials/plants_materials/MI_tree_01_Inst] ([1] browsable assets)...
+[2022.09.13-03.04.03:949][826]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Stylized_Egypt/Materials/plants_materials/MI_tree_01_Inst.MI_tree_01_Inst]
+[2022.09.13-03.04.03:949][826]OBJ SavePackage: Finished generating thumbnails for package [/Game/Stylized_Egypt/Materials/plants_materials/MI_tree_01_Inst]
+[2022.09.13-03.04.03:956][826]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.006259 seconds
+[2022.09.13-03.04.03:958][826]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Stylized_Egypt/Materials/plants_materials/MI_tree_01_Inst_Auto1
+[2022.09.13-03.04.03:958][826]LogSavePackage: Moving '../../../../GitHub/Unreal_game_20220823/lion_3dGame/Saved/MI_tree_01_Inst_Auto19AB856914E13F1DE7A1F368F850AEC52.tmp' to '../../../../GitHub/Unreal_game_20220823/lion_3dGame/Saved/Autosaves/Game/Stylized_Egypt/Materials/plants_materials/MI_tree_01_Inst_Auto1.uasset'
+[2022.09.13-03.04.03:959][826]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Stylized_Egypt/Materials/plants_materials/M_tree] ([1] browsable assets)...
+[2022.09.13-03.04.03:972][826]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Stylized_Egypt/Materials/plants_materials/M_tree.M_tree]
+[2022.09.13-03.04.03:972][826]OBJ SavePackage: Finished generating thumbnails for package [/Game/Stylized_Egypt/Materials/plants_materials/M_tree]
+[2022.09.13-03.04.03:976][826]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Stylized_Egypt/Materials/plants_materials/M_tree_Auto1
+[2022.09.13-03.04.03:976][826]LogSavePackage: Moving '../../../../GitHub/Unreal_game_20220823/lion_3dGame/Saved/M_tree_Auto1B29D58114E00CDA7A94A6FB15E7584EA.tmp' to '../../../../GitHub/Unreal_game_20220823/lion_3dGame/Saved/Autosaves/Game/Stylized_Egypt/Materials/plants_materials/M_tree_Auto1.uasset'
+[2022.09.13-03.04.03:977][826]LogFileHelpers: Auto-saving content packages took 0.107
