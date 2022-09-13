@@ -1696,3 +1696,445 @@ Recommended: 516.25
 [2022.09.13-03.50.43:123][908]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
 [2022.09.13-03.50.43:136][908]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
 [2022.09.13-03.50.43:159][909]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2022.09.13-03.53.12:173][527]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.09.13-03.53.12:181][527]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.13-03.53.12:181][527]PIE: New page: PIE session: 哀及地圖 (2022年9月13日 下午7:53:12)
+[2022.09.13-03.53.12:181][527]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_哀及地圖
+[2022.09.13-03.53.12:199][527]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018366s)
+[2022.09.13-03.53.12:199][527]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/哀及地圖.哀及地圖 to /Game/地圖/UEDPIE_0_哀及地圖.哀及地圖 (0.018474s)
+[2022.09.13-03.53.12:199][527]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.13-03.53.12:200][527]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.13-03.53.12:200][527]LogAIModule: Creating AISystem for world 哀及地圖
+[2022.09.13-03.53.12:201][527]LogPlayLevel: PIE: World Init took: (0.001234s)
+[2022.09.13-03.53.12:285][527]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2022.09.13-03.53.12:287][527]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2022.09.13-03.53.12:287][527]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.13-03.53.12:287][527]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.13-03.53.12:287][527]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.13-03.53.12:287][527]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.13-03.53.12:287][527]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.13-03.53.12:287][527]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.13-03.53.12:287][527]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.13-03.53.12:287][527]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.13-03.53.12:288][527]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.13-03.53.12:288][527]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.13-03.53.12:288][527]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.13-03.53.12:290][527]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.13-03.53.12:319][527]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek High Definition Audio)
+[2022.09.13-03.53.12:320][527]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.13-03.53.12:320][527]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.13-03.53.12:320][527]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.13-03.53.12:321][527]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2022.09.13-03.53.12:321][527]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2022.09.13-03.53.12:323][527]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2022.09.13-03.53.12:323][527]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2022.09.13-03.53.12:323][527]LogInit: FAudioDevice initialized.
+[2022.09.13-03.53.12:323][527]LogAudio: Display: Audio Device (ID: 17) registered with world '哀及地圖'.
+[2022.09.13-03.53.12:385][527]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.13-03.53.12:385][527]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.09.13-03.53.12:389][527]LogWorld: Bringing World /Game/地圖/UEDPIE_0_哀及地圖.哀及地圖 up for play (max tick rate 0) at 2022.09.13-11.53.12
+[2022.09.13-03.53.12:389][527]LogWorld: Bringing up level for play took: 0.003518
+[2022.09.13-03.53.12:392][527]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2022.09.13-03.53.12:397][527]LogBlueprintUserMessages: [BP_Box_C_1] Hello~~~~~~~~~!!!
+[2022.09.13-03.53.12:400][527]PIE: Server logged in
+[2022.09.13-03.53.12:402][527]PIE: Play in editor total start time 0.222 seconds.
+[2022.09.13-03.53.12:413][527]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.09.13-03.53.53:279][367]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.13-03.53.53:279][367]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_哀及地圖
+[2022.09.13-03.53.53:279][367]LogSlate: Window 'lion_3dGame Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.09.13-03.53.53:293][367]LogWorld: UWorld::CleanupWorld for 哀及地圖, bSessionEnded=true, bCleanupResources=true
+[2022.09.13-03.53.53:294][367]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.13-03.53.53:308][367]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.13-03.53.53:320][367]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.13-03.53.53:397][367]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2022.09.13-03.53.53:399][367]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2022.09.13-03.53.53:412][367]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2022.09.13-03.53.53:434][368]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2022.09.13-03.54.08:350][ 78]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BW_Main" FILE="../../../../GitHub/Unreal_game_20220823/lion_3dGame/Content/BP/BW_Main.uasset" SILENT=true
+[2022.09.13-03.54.08:353][ 78]LogSavePackage: Moving output files for package: /Game/BP/BW_Main
+[2022.09.13-03.54.08:354][ 78]LogSavePackage: Moving '../../../../GitHub/Unreal_game_20220823/lion_3dGame/Saved/BW_MainF5B046754193C97CC9A1EF8F53176FBA.tmp' to '../../../../GitHub/Unreal_game_20220823/lion_3dGame/Content/BP/BW_Main.uasset'
+[2022.09.13-03.54.08:373][ 78]AssetCheck: New page: Asset Save: BW_Main
+[2022.09.13-03.54.08:373][ 78]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BW_Main.BW_Main
+[2022.09.13-03.54.09:186][166]BlueprintLog: New page: Compile BW_Main
+[2022.09.13-03.54.09:311][166]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2022.09.13-03.54.10:138][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BW_Main" FILE="../../../../GitHub/Unreal_game_20220823/lion_3dGame/Content/BP/BW_Main.uasset" SILENT=true
+[2022.09.13-03.54.10:142][229]LogSavePackage: Moving output files for package: /Game/BP/BW_Main
+[2022.09.13-03.54.10:142][229]LogSavePackage: Moving '../../../../GitHub/Unreal_game_20220823/lion_3dGame/Saved/BW_Main8DBE4D994DEA24B8BC6236A969B39B5F.tmp' to '../../../../GitHub/Unreal_game_20220823/lion_3dGame/Content/BP/BW_Main.uasset'
+[2022.09.13-03.54.10:160][229]AssetCheck: New page: Asset Save: BW_Main
+[2022.09.13-03.54.10:160][229]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BW_Main.BW_Main
+[2022.09.13-03.54.12:265][455]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.09.13-03.54.12:272][455]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.13-03.54.12:272][455]PIE: New page: PIE session: 哀及地圖 (2022年9月13日 下午7:54:12)
+[2022.09.13-03.54.12:272][455]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_哀及地圖
+[2022.09.13-03.54.12:289][455]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016717s)
+[2022.09.13-03.54.12:289][455]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/哀及地圖.哀及地圖 to /Game/地圖/UEDPIE_0_哀及地圖.哀及地圖 (0.016823s)
+[2022.09.13-03.54.12:289][455]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.13-03.54.12:290][455]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.13-03.54.12:290][455]LogAIModule: Creating AISystem for world 哀及地圖
+[2022.09.13-03.54.12:290][455]LogPlayLevel: PIE: World Init took: (0.001056s)
+[2022.09.13-03.54.12:379][455]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2022.09.13-03.54.12:383][455]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2022.09.13-03.54.12:383][455]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.13-03.54.12:383][455]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.13-03.54.12:383][455]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.13-03.54.12:383][455]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.13-03.54.12:383][455]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.13-03.54.12:383][455]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.13-03.54.12:383][455]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.13-03.54.12:383][455]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.13-03.54.12:383][455]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.13-03.54.12:383][455]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.13-03.54.12:383][455]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.13-03.54.12:386][455]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.13-03.54.12:412][455]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek High Definition Audio)
+[2022.09.13-03.54.12:412][455]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.13-03.54.12:412][455]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.13-03.54.12:412][455]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.13-03.54.12:413][455]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2022.09.13-03.54.12:413][455]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2022.09.13-03.54.12:416][455]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2022.09.13-03.54.12:416][455]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2022.09.13-03.54.12:416][455]LogInit: FAudioDevice initialized.
+[2022.09.13-03.54.12:416][455]LogAudio: Display: Audio Device (ID: 18) registered with world '哀及地圖'.
+[2022.09.13-03.54.12:484][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.13-03.54.12:484][455]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.09.13-03.54.12:487][455]LogWorld: Bringing World /Game/地圖/UEDPIE_0_哀及地圖.哀及地圖 up for play (max tick rate 0) at 2022.09.13-11.54.12
+[2022.09.13-03.54.12:488][455]LogWorld: Bringing up level for play took: 0.003467
+[2022.09.13-03.54.12:490][455]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2022.09.13-03.54.12:495][455]LogBlueprintUserMessages: [BP_Box_C_1] Hello~~~~~~~~~!!!
+[2022.09.13-03.54.12:498][455]PIE: Server logged in
+[2022.09.13-03.54.12:501][455]PIE: Play in editor total start time 0.229 seconds.
+[2022.09.13-03.54.12:511][455]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.09.13-04.03.50:919][624]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.03.50:919][624]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.03.50:943][625]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.03.50:944][625]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.03.50:969][626]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.03.50:969][626]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.15:123][742]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.15:123][742]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.15:145][743]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.15:145][743]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.15:167][744]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.15:167][744]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.16:779][821]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.16:779][821]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.16:801][822]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.16:801][822]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.16:822][823]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.16:822][823]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.16:846][824]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.16:846][824]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.31:053][478]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.31:054][478]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.31:078][479]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.31:078][479]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.31:101][480]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.31:101][480]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.31:124][481]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.31:124][481]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.31:146][482]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.31:146][482]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.31:170][483]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.31:170][483]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.31:336][490]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.32:594][544]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.32:618][545]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.32:640][546]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.33:096][566]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.33:118][567]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.33:140][568]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.33:163][569]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.33:186][570]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.33:209][571]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.33:233][572]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.33:649][590]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.33:673][591]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.33:695][592]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.33:718][593]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.33:741][594]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.33:763][595]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.33:786][596]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.33:809][597]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.33:832][598]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.33:855][599]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.33:855][599]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.33:879][600]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.33:879][600]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.34:436][624]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.34:436][624]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.34:459][625]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.34:459][625]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.34:482][626]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.34:482][626]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.34:505][627]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.34:506][627]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.35:174][656]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.35:174][656]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.35:197][657]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.35:197][657]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.35:221][658]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.35:221][658]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.35:244][659]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.35:244][659]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.35:267][660]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.35:267][660]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.36:484][712]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.38:713][808]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.38:736][809]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.38:760][810]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.38:783][811]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.38:806][812]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.38:828][813]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.38:851][814]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.39:355][836]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.39:378][837]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.39:402][838]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.39:425][839]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.39:447][840]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.39:471][841]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.39:495][842]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.39:517][843]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.39:541][844]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.39:564][845]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.39:588][846]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.39:611][847]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.39:635][848]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.39:659][849]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.39:680][850]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.39:932][861]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.39:954][862]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.39:977][863]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.40:000][864]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.40:024][865]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.40:046][866]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.40:069][867]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.40:092][868]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.40:117][869]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.40:140][870]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.40:140][870]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.40:163][871]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.40:163][871]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.40:185][872]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.40:185][872]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.40:207][873]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.40:207][873]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.40:230][874]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.40:230][874]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.40:253][875]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.40:253][875]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.41:245][918]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.41:245][918]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.41:268][919]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.41:268][919]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.41:291][920]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.41:291][920]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.42:537][974]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.42:560][975]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.42:584][976]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.42:608][977]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.42:631][978]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.42:654][979]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.42:677][980]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.42:700][981]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.42:724][982]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.42:747][983]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.42:772][984]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.43:933][ 34]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.51:678][382]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.51:678][382]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.51:700][383]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.51:700][383]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.51:725][384]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.04.51:725][384]LogBlueprintUserMessages: [BP_Box_C_1] BP_Player_C_0
+[2022.09.13-04.21.52:637][849]LogDerivedDataCache: C:/Users/USER/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.119 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.13-05.06.24:526][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.13-05.06.24:526][126]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_哀及地圖
+[2022.09.13-05.06.24:529][126]LogSlate: Window 'lion_3dGame Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.09.13-05.06.24:536][126]LogWorld: UWorld::CleanupWorld for 哀及地圖, bSessionEnded=true, bCleanupResources=true
+[2022.09.13-05.06.24:537][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.13-05.06.24:555][126]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.13-05.06.24:567][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.13-05.06.24:641][126]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.13-05.06.24:642][126]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2022.09.13-05.06.24:644][126]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2022.09.13-05.06.24:659][126]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2022.09.13-05.06.24:681][127]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2022.09.13-05.08.32:827][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BW_Main" FILE="../../../../GitHub/Unreal_game_20220823/lion_3dGame/Content/BP/BW_Main.uasset" SILENT=true
+[2022.09.13-05.08.32:831][  0]LogSavePackage: Moving output files for package: /Game/BP/BW_Main
+[2022.09.13-05.08.32:831][  0]LogSavePackage: Moving '../../../../GitHub/Unreal_game_20220823/lion_3dGame/Saved/BW_Main9B5B61D54C82493076916C8CDCEEE36E.tmp' to '../../../../GitHub/Unreal_game_20220823/lion_3dGame/Content/BP/BW_Main.uasset'
+[2022.09.13-05.08.32:855][  0]AssetCheck: New page: Asset Save: BW_Main
+[2022.09.13-05.08.32:855][  0]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BW_Main.BW_Main
+[2022.09.13-05.08.33:156][ 36]BlueprintLog: New page: Compile BW_Main
+[2022.09.13-05.08.33:292][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2022.09.13-05.12.09:034][968]BlueprintLog: New page: Compile BW_Main
+[2022.09.13-05.12.09:161][968]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2022.09.13-05.12.10:131][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BW_Main" FILE="../../../../GitHub/Unreal_game_20220823/lion_3dGame/Content/BP/BW_Main.uasset" SILENT=true
+[2022.09.13-05.12.10:137][ 44]LogSavePackage: Moving output files for package: /Game/BP/BW_Main
+[2022.09.13-05.12.10:137][ 44]LogSavePackage: Moving '../../../../GitHub/Unreal_game_20220823/lion_3dGame/Saved/BW_Main684EDA9841C67A8DDD00239FAF79B14A.tmp' to '../../../../GitHub/Unreal_game_20220823/lion_3dGame/Content/BP/BW_Main.uasset'
+[2022.09.13-05.12.10:158][ 44]AssetCheck: New page: Asset Save: BW_Main
+[2022.09.13-05.12.10:158][ 44]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BW_Main.BW_Main
+[2022.09.13-05.13.29:687][173]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2022.09.13-05.13.29:691][173]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/地圖/哀及地圖' took 0.099
+[2022.09.13-05.13.29:692][173]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode] ([2] browsable assets)...
+[2022.09.13-05.13.29:692][173]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode]
+[2022.09.13-05.13.29:694][173]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode_Auto2
+[2022.09.13-05.13.29:694][173]LogSavePackage: Moving '../../../../GitHub/Unreal_game_20220823/lion_3dGame/Saved/BP_ThirdPersonGameMode_Auto26A8DED1D4DB1B3FFBC20D4B60766988A.tmp' to '../../../../GitHub/Unreal_game_20220823/lion_3dGame/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode_Auto2.uasset'
+[2022.09.13-05.13.29:695][173]LogFileHelpers: Auto-saving content packages took 0.004
+[2022.09.13-05.20.37:406][961]BlueprintLog: New page: Compile BW_Main
+[2022.09.13-05.20.37:525][961]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2022.09.13-05.20.38:128][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BW_Main" FILE="../../../../GitHub/Unreal_game_20220823/lion_3dGame/Content/BP/BW_Main.uasset" SILENT=true
+[2022.09.13-05.20.38:135][ 13]LogSavePackage: Moving output files for package: /Game/BP/BW_Main
+[2022.09.13-05.20.38:135][ 13]LogSavePackage: Moving '../../../../GitHub/Unreal_game_20220823/lion_3dGame/Saved/BW_Main1750373043BB7EB819311EB61317025A.tmp' to '../../../../GitHub/Unreal_game_20220823/lion_3dGame/Content/BP/BW_Main.uasset'
+[2022.09.13-05.20.38:155][ 13]AssetCheck: New page: Asset Save: BW_Main
+[2022.09.13-05.20.38:155][ 13]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BW_Main.BW_Main
+[2022.09.13-05.20.39:180][125]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.09.13-05.20.39:196][125]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.13-05.20.39:196][125]PIE: New page: PIE session: 哀及地圖 (2022年9月13日 下午9:20:39)
+[2022.09.13-05.20.39:196][125]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_哀及地圖
+[2022.09.13-05.20.39:215][125]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018863s)
+[2022.09.13-05.20.39:215][125]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/哀及地圖.哀及地圖 to /Game/地圖/UEDPIE_0_哀及地圖.哀及地圖 (0.018978s)
+[2022.09.13-05.20.39:215][125]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.13-05.20.39:215][125]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.13-05.20.39:216][125]LogAIModule: Creating AISystem for world 哀及地圖
+[2022.09.13-05.20.39:216][125]LogPlayLevel: PIE: World Init took: (0.001159s)
+[2022.09.13-05.20.39:306][125]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2022.09.13-05.20.39:309][125]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2022.09.13-05.20.39:309][125]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.13-05.20.39:309][125]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.13-05.20.39:309][125]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.13-05.20.39:309][125]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.13-05.20.39:309][125]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.13-05.20.39:309][125]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.13-05.20.39:309][125]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.13-05.20.39:309][125]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.13-05.20.39:309][125]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.13-05.20.39:310][125]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.13-05.20.39:310][125]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.13-05.20.39:314][125]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.13-05.20.39:345][125]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek High Definition Audio)
+[2022.09.13-05.20.39:345][125]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.13-05.20.39:346][125]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.13-05.20.39:346][125]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.13-05.20.39:347][125]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2022.09.13-05.20.39:347][125]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2022.09.13-05.20.39:350][125]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2022.09.13-05.20.39:350][125]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2022.09.13-05.20.39:350][125]LogInit: FAudioDevice initialized.
+[2022.09.13-05.20.39:350][125]LogAudio: Display: Audio Device (ID: 19) registered with world '哀及地圖'.
+[2022.09.13-05.20.39:393][125]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.13-05.20.39:393][125]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.09.13-05.20.39:396][125]LogWorld: Bringing World /Game/地圖/UEDPIE_0_哀及地圖.哀及地圖 up for play (max tick rate 0) at 2022.09.13-13.20.39
+[2022.09.13-05.20.39:397][125]LogWorld: Bringing up level for play took: 0.003436
+[2022.09.13-05.20.39:400][125]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2022.09.13-05.20.39:405][125]LogBlueprintUserMessages: [BP_Box_C_1] Hello~~~~~~~~~!!!
+[2022.09.13-05.20.39:407][125]PIE: Server logged in
+[2022.09.13-05.20.39:408][125]PIE: Play in editor total start time 0.213 seconds.
+[2022.09.13-05.20.39:419][125]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.09.13-05.20.41:145][180]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.13-05.20.41:145][180]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_哀及地圖
+[2022.09.13-05.20.41:145][180]LogSlate: Window 'lion_3dGame Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.09.13-05.20.41:150][180]LogWorld: UWorld::CleanupWorld for 哀及地圖, bSessionEnded=true, bCleanupResources=true
+[2022.09.13-05.20.41:151][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.13-05.20.41:165][180]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.13-05.20.41:177][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.13-05.20.41:257][180]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.13-05.20.41:258][180]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2022.09.13-05.20.41:261][180]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2022.09.13-05.20.41:274][180]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2022.09.13-05.20.41:296][181]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2022.09.13-05.21.52:402][714]LogDerivedDataCache: C:/Users/USER/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.110 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.13-05.35.31:507][429]BlueprintLog: New page: Compile BW_Main
+[2022.09.13-05.35.31:625][429]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2022.09.13-05.35.32:313][486]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BW_Main" FILE="../../../../GitHub/Unreal_game_20220823/lion_3dGame/Content/BP/BW_Main.uasset" SILENT=true
+[2022.09.13-05.35.32:319][486]LogSavePackage: Moving output files for package: /Game/BP/BW_Main
+[2022.09.13-05.35.32:320][486]LogSavePackage: Moving '../../../../GitHub/Unreal_game_20220823/lion_3dGame/Saved/BW_Main245BAB9C49120C2DF57F37A0A30D1906.tmp' to '../../../../GitHub/Unreal_game_20220823/lion_3dGame/Content/BP/BW_Main.uasset'
+[2022.09.13-05.35.32:341][486]AssetCheck: New page: Asset Save: BW_Main
+[2022.09.13-05.35.32:341][486]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BW_Main.BW_Main
+[2022.09.13-05.35.33:588][626]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.09.13-05.35.33:596][626]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.13-05.35.33:596][626]PIE: New page: PIE session: 哀及地圖 (2022年9月13日 下午9:35:33)
+[2022.09.13-05.35.33:596][626]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_哀及地圖
+[2022.09.13-05.35.33:613][626]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016676s)
+[2022.09.13-05.35.33:613][626]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/哀及地圖.哀及地圖 to /Game/地圖/UEDPIE_0_哀及地圖.哀及地圖 (0.016789s)
+[2022.09.13-05.35.33:613][626]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.13-05.35.33:613][626]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.13-05.35.33:614][626]LogAIModule: Creating AISystem for world 哀及地圖
+[2022.09.13-05.35.33:614][626]LogPlayLevel: PIE: World Init took: (0.001313s)
+[2022.09.13-05.35.33:701][626]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2022.09.13-05.35.33:704][626]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2022.09.13-05.35.33:704][626]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.13-05.35.33:704][626]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.13-05.35.33:704][626]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.13-05.35.33:704][626]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.13-05.35.33:704][626]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.13-05.35.33:704][626]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.13-05.35.33:704][626]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.13-05.35.33:704][626]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.13-05.35.33:704][626]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.13-05.35.33:705][626]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.13-05.35.33:705][626]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.13-05.35.33:707][626]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.13-05.35.33:737][626]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek High Definition Audio)
+[2022.09.13-05.35.33:737][626]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.13-05.35.33:737][626]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.13-05.35.33:737][626]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.13-05.35.33:738][626]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2022.09.13-05.35.33:738][626]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2022.09.13-05.35.33:742][626]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2022.09.13-05.35.33:742][626]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2022.09.13-05.35.33:742][626]LogInit: FAudioDevice initialized.
+[2022.09.13-05.35.33:742][626]LogAudio: Display: Audio Device (ID: 20) registered with world '哀及地圖'.
+[2022.09.13-05.35.33:791][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.13-05.35.33:791][626]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.09.13-05.35.33:795][626]LogWorld: Bringing World /Game/地圖/UEDPIE_0_哀及地圖.哀及地圖 up for play (max tick rate 0) at 2022.09.13-13.35.33
+[2022.09.13-05.35.33:795][626]LogWorld: Bringing up level for play took: 0.003575
+[2022.09.13-05.35.33:798][626]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2022.09.13-05.35.33:803][626]LogBlueprintUserMessages: [BP_Box_C_1] Hello~~~~~~~~~!!!
+[2022.09.13-05.35.33:805][626]PIE: Server logged in
+[2022.09.13-05.35.33:806][626]PIE: Play in editor total start time 0.21 seconds.
+[2022.09.13-05.35.33:816][626]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.09.13-05.35.37:364][770]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.13-05.35.37:364][770]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_哀及地圖
+[2022.09.13-05.35.37:364][770]LogSlate: Window 'lion_3dGame Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.09.13-05.35.37:384][770]LogWorld: UWorld::CleanupWorld for 哀及地圖, bSessionEnded=true, bCleanupResources=true
+[2022.09.13-05.35.37:384][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.13-05.35.37:405][770]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.13-05.35.37:416][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.13-05.35.37:497][770]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.13-05.35.37:498][770]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2022.09.13-05.35.37:501][770]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2022.09.13-05.35.37:512][770]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2022.09.13-05.35.37:534][771]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2022.09.13-05.35.49:577][ 89]LogSlate: Took 0.008031 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.09.13-05.36.53:057][131]BlueprintLog: New page: Compile BP_Player
+[2022.09.13-05.36.53:224][131]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2022.09.13-05.36.58:111][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Player" FILE="../../../../GitHub/Unreal_game_20220823/lion_3dGame/Content/BP/BP_Player.uasset" SILENT=true
+[2022.09.13-05.36.58:130][589]LogSavePackage: Moving output files for package: /Game/BP/BP_Player
+[2022.09.13-05.36.58:131][589]LogSavePackage: Moving '../../../../GitHub/Unreal_game_20220823/lion_3dGame/Saved/BP_Player8BAC878E47296AFA6BA2F2A8775EF6C4.tmp' to '../../../../GitHub/Unreal_game_20220823/lion_3dGame/Content/BP/BP_Player.uasset'
+[2022.09.13-05.36.58:152][589]AssetCheck: New page: Asset Save: BP_Player
+[2022.09.13-05.36.58:152][589]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_Player.BP_Player
+[2022.09.13-05.47.31:828][315]BlueprintLog: New page: Compile BP_Player
+[2022.09.13-05.47.31:997][315]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2022.09.13-05.47.32:723][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Player" FILE="../../../../GitHub/Unreal_game_20220823/lion_3dGame/Content/BP/BP_Player.uasset" SILENT=true
+[2022.09.13-05.47.32:739][356]LogSavePackage: Moving output files for package: /Game/BP/BP_Player
+[2022.09.13-05.47.32:740][356]LogSavePackage: Moving '../../../../GitHub/Unreal_game_20220823/lion_3dGame/Saved/BP_PlayerA3A5A7F64FC1653442B77E84950EF70B.tmp' to '../../../../GitHub/Unreal_game_20220823/lion_3dGame/Content/BP/BP_Player.uasset'
+[2022.09.13-05.47.32:762][356]AssetCheck: New page: Asset Save: BP_Player
+[2022.09.13-05.47.32:762][356]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_Player.BP_Player
+[2022.09.13-05.47.40:854][248]LogViewport: Scene viewport resized to 1141x693, mode Windowed.
+[2022.09.13-05.50.37:662][257]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2022.09.13-05.50.37:665][257]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/地圖/哀及地圖' took 0.090
+[2022.09.13-05.50.37:666][257]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP/BP_Player] ([2] browsable assets)...
+[2022.09.13-05.50.37:717][257]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP/BP_Player.BP_Player]
+[2022.09.13-05.50.37:717][257]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_Player]
+[2022.09.13-05.50.37:717][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Player" FILE="../../../../GitHub/Unreal_game_20220823/lion_3dGame/Saved/Autosaves/Game/BP/BP_Player_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2022.09.13-05.50.37:737][257]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP/BP_Player_Auto3
+[2022.09.13-05.50.37:737][257]LogSavePackage: Moving '../../../../GitHub/Unreal_game_20220823/lion_3dGame/Saved/BP_Player_Auto3BF07429140046ADCBB26F588A9F9367A.tmp' to '../../../../GitHub/Unreal_game_20220823/lion_3dGame/Saved/Autosaves/Game/BP/BP_Player_Auto3.uasset'
+[2022.09.13-05.50.37:737][257]LogFileHelpers: Auto-saving content packages took 0.071
+[2022.09.13-05.51.27:299][822]BlueprintLog: New page: Compile BP_Player
+[2022.09.13-05.51.27:465][822]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2022.09.13-05.51.28:211][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Player" FILE="../../../../GitHub/Unreal_game_20220823/lion_3dGame/Content/BP/BP_Player.uasset" SILENT=true
+[2022.09.13-05.51.28:231][875]LogSavePackage: Moving output files for package: /Game/BP/BP_Player
+[2022.09.13-05.51.28:231][875]LogSavePackage: Moving '../../../../GitHub/Unreal_game_20220823/lion_3dGame/Saved/BP_Player493CBBFC4BE283F7A12B5CA9F6F01629.tmp' to '../../../../GitHub/Unreal_game_20220823/lion_3dGame/Content/BP/BP_Player.uasset'
+[2022.09.13-05.51.28:250][875]AssetCheck: New page: Asset Save: BP_Player
+[2022.09.13-05.51.28:250][875]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_Player.BP_Player
